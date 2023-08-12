@@ -4,7 +4,7 @@ body {
   margin: 0;
   font-family: 'Creepster', cursive;
   font-family: 'Ysabeau Infant', sans-serif;  
-/* background-image: url("../src//assets/rick.webp");
+background-image: url("../src//assets/rick.webp");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -16,5 +16,4 @@ body {
     min-height: 100vh;
     width: 100%;
     height: 100%;
-} */
-}
+} 
