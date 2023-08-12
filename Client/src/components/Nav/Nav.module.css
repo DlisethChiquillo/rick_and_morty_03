@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    font-weight: bolder;
+    text-decoration: none;
+    gap: 50px;
+    margin-right: 5%;
+}
+.link {
+    text-decoration: none;
+    margin-top: 2%;
+    color: black;
+}

@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 30%;
+    gap: 5%;
+    border-radius:10px;
+    box-shadow: 3px 4px #ccc;
+    width: 44%;
+}
+
+.image {
+    margin-left: 15px;
+    border-top-right-radius: 10px;
+}

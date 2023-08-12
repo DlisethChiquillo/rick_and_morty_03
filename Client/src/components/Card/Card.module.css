@@ -1,0 +1,39 @@
+.container {
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 250px;
+    margin-top: 20px;
+
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.btn {
+    margin-top: 5px;
+    margin-left: 86%;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.containerTitle {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btnFav {
+    background-color: transparent;
+    border-color: transparent;
+    margin-top: 5px;
+}
